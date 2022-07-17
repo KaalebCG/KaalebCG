@@ -1,6 +1,6 @@
 ### Olá! eu sou o Kaleb Damaceno 🖖
 
-- 🔭 Desenvolvedor FullStack Java
+- 🔭 Desenvolvedor Front-End
 - 👩‍🎓 Estudante de Engenharia de Software
 - 🤓 Amante do universo Geek
 - 🍀 27 anos
