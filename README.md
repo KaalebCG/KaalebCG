@@ -3,7 +3,7 @@
 - 🔭 Desenvolvedor Front-End
 - 👩‍🎓 Estudante de Engenharia de Software
 - 🤓 Amante do universo Geek
-- 🍀 27 anos
+- 🍀 28 anos
 - 💍 Casado
 
  <!--
